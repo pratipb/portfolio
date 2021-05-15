@@ -1,6 +1,6 @@
 {
   "homepage": "http://pratipb.github.io/pratip-portfolio",
-  "name": "Pratip Portfolio",
+  "name": "pratip-portfolio",
   "version": "1.0.0",
   "private": true,
   "dependencies": {
