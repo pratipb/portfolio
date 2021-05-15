@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/pratip-portfolio/static/css/main.97f118ff.chunk.css",
+    "main.js": "/pratip-portfolio/static/js/main.de081772.chunk.js",
+    "main.js.map": "/pratip-portfolio/static/js/main.de081772.chunk.js.map",
+    "runtime-main.js": "/pratip-portfolio/static/js/runtime-main.d3bc2dfc.js",
+    "runtime-main.js.map": "/pratip-portfolio/static/js/runtime-main.d3bc2dfc.js.map",
+    "static/js/2.7b7d03f3.chunk.js": "/pratip-portfolio/static/js/2.7b7d03f3.chunk.js",
+    "static/js/2.7b7d03f3.chunk.js.map": "/pratip-portfolio/static/js/2.7b7d03f3.chunk.js.map",
+    "static/css/3.00373544.chunk.css": "/pratip-portfolio/static/css/3.00373544.chunk.css",
+    "static/js/3.2715c532.chunk.js": "/pratip-portfolio/static/js/3.2715c532.chunk.js",
+    "static/js/3.2715c532.chunk.js.map": "/pratip-portfolio/static/js/3.2715c532.chunk.js.map",
+    "index.html": "/pratip-portfolio/index.html",
+    "precache-manifest.4f8a97b7b0b3dcdeb5635a9a2ee195a6.js": "/pratip-portfolio/precache-manifest.4f8a97b7b0b3dcdeb5635a9a2ee195a6.js",
+    "service-worker.js": "/pratip-portfolio/service-worker.js",
+    "static/css/3.00373544.chunk.css.map": "/pratip-portfolio/static/css/3.00373544.chunk.css.map",
+    "static/css/main.97f118ff.chunk.css.map": "/pratip-portfolio/static/css/main.97f118ff.chunk.css.map",
+    "static/js/2.7b7d03f3.chunk.js.LICENSE.txt": "/pratip-portfolio/static/js/2.7b7d03f3.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/pratip-portfolio/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/contactMailDark.svg": "/pratip-portfolio/static/media/contactMailDark.51cf7192.svg",
+    "static/media/developerActivity.svg": "/pratip-portfolio/static/media/developerActivity.59389695.svg",
+    "static/media/harvardLogo.png": "/pratip-portfolio/static/media/harvardLogo.35ef5e91.png",
+    "static/media/manOnTable.svg": "/pratip-portfolio/static/media/manOnTable.52be3144.svg",
+    "static/media/nextuLogo.webp": "/pratip-portfolio/static/media/nextuLogo.829ad0a1.webp",
+    "static/media/saayaHealthLogo.webp": "/pratip-portfolio/static/media/saayaHealthLogo.25018d29.webp",
+    "static/media/skill.svg": "/pratip-portfolio/static/media/skill.34409398.svg",
+    "static/media/stanfordLogo.png": "/pratip-portfolio/static/media/stanfordLogo.3b758ef5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d3bc2dfc.js",
+    "static/js/2.7b7d03f3.chunk.js",
+    "static/css/main.97f118ff.chunk.css",
+    "static/js/main.de081772.chunk.js"
+  ]
+}
